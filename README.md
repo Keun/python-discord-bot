@@ -7,8 +7,6 @@ discord.py is a Python library that exhaustively implements Discord’s APIs in 
 
 Begin by installing discord.py with pip:
 
-$ pip install -U discord.py
-Now that you’ve installed discord.py, you’ll use it to create your first connection to Discord!
 
 ```
 pip install -U discord.py
